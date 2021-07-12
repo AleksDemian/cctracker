@@ -1,5 +1,7 @@
 # cctracker
 
+My first Crypto Currency Tracker
+
 A new Flutter project.
 
 ## Getting Started
